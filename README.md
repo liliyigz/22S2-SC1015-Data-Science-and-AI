@@ -78,6 +78,7 @@ The models were chosen by considering the large data set and the high number of 
 
 ### Data Source
 https://www.cdc.gov/brfss/annual_data/annual_2021.html
+To download the raw data file, please access: https://www.dropbox.com/s/veea7xd97rc7kdv/raw.csv?dl=0
 
 ### Machine Learning
 https://scikit-learn.org/stable/modules/tree.html
