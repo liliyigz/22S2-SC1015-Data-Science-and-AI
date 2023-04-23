@@ -71,6 +71,7 @@ The models were chosen by considering the large data set and the high number of 
 - Identifying best hyperparameters through GridSearch
 
 ## Conclusion
+- Logistic Regression yielded the best results with the highest prediction accuracy of 0.73 after optimisation.
 - A correlation between arthritis and hypertension was found although the link cannot be explained by scientific knowledge.
 - A higher proportion of black people suffer from hypertension compared to all other racial demographics. This suggests that hypertension can be caused by genetic factors.
 - People with and without hypertension have the same average intake of fruits and vegetables. This suggests that there are other more significant factors that contribute to hypertension.
