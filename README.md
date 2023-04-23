@@ -12,7 +12,7 @@ The documents and source codes are presented in the following order:
 4. [Model 2: Random Forest](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/bcf2ffa4efe45d0f024e1c2dc7efe0bb94fc290d/4.%20%5BModel%202:%20Random%20Forest%5D.ipynb)
 5. [Model 3: Logistic Regression](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/bcf2ffa4efe45d0f024e1c2dc7efe0bb94fc290d/5.%20%5BModel%203:%20Logistic%20Regression%5D.ipynb)
 6. [B133 Team 5 Video Slides](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/e4fc1f4560661c2952de97f5e251faa04a4c617b/6.%20%5BB133%20Team%205%20Video%20Slides%5D.pdf)
-7. [Dataset & Codebook](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/fb70bf78bc8df25f8f94e35102d1b6af7729543a/0.%20%5BData%20Description%5D.pdf)
+7. [Dataset & Codebook](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/7b9b90761335728da6c92fb48a77760153bb64f9/7.%20%5BData%20Description%5D.pdf)
 
 
 ## Contributors
