@@ -1,4 +1,5 @@
 # Hypertension Classifier using Machine Learning and Optimisation Techniques
+![hypertension](https://user-images.githubusercontent.com/88404898/233834788-46a0b9cb-908b-4b1c-b60d-36fa5b22f859.png)
 ## About
 This is the Mini-Project done for SC1015 Introduction to Data Science and Artificial Intelligence. In this project, we aim to identify individuals with high risk of hypertension who are undiagnosed, using Data Science and Machine Learning algorithms. 
 
