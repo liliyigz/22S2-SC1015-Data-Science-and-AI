@@ -6,12 +6,13 @@ This is the Mini-Project done for SC1015 Introduction to Data Science and Artifi
 The dataset we chose is taken from 2021 Behavioural Risk Factor Surveillance System Survey Data and Documentation conducted by US Centers for Disease Control and Prevention (CDC).
 
 The documents and source codes are presented in the following order:
+0. [Dataset & Codebook](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/fb70bf78bc8df25f8f94e35102d1b6af7729543a/0.%20%5BData%20Description%5D.pdf)
 1. [Data Extraction & Cleaning](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/bcf2ffa4efe45d0f024e1c2dc7efe0bb94fc290d/1.%20%5BData%20Extraction%20&%20Cleaning%5D.ipynb)
 2. [Exploratory Data Analysis](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/bcf2ffa4efe45d0f024e1c2dc7efe0bb94fc290d/2.%20%5BExploratory%20Data%20Analysis%20and%20Visualization%5D.ipynb)
 3. [Model 1: Decision Tree](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/bcf2ffa4efe45d0f024e1c2dc7efe0bb94fc290d/3.%20%5BModel%201:%20Decision%20Tree%5D.ipynb)
 4. [Model 2: Random Forest](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/bcf2ffa4efe45d0f024e1c2dc7efe0bb94fc290d/4.%20%5BModel%202:%20Random%20Forest%5D.ipynb)
 5. [Model 3: Logistic Regression](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/bcf2ffa4efe45d0f024e1c2dc7efe0bb94fc290d/5.%20%5BModel%203:%20Logistic%20Regression%5D.ipynb)
-6. [Dataset & Codebook](https://github.com/liliyigz/22S2-SC1015-Data-Science-and-AI/blob/588acd5d6146d208326e408de0a6dfa314530d7d/%5BData%20Description%5D.pdf)
+
 
 ## Contributors
 ### Team:
